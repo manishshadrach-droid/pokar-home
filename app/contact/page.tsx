@@ -1,5 +1,5 @@
 import Link from "next/link"
-import AddToCartButton from "./components/AddToCartButton"
+import AddToCartButton from "@/components/AddToCartButton"oCartButton"
 
 interface Product {
   id: number
